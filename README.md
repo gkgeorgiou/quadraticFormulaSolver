@@ -1,5 +1,5 @@
 # QuadraticFormulaSolver
- Quadratic solver in C++ using external functions and Makefile to compile
+ Quadratic formula solver in C++ using external functions and Makefile to compile
 
  External functions:
 
