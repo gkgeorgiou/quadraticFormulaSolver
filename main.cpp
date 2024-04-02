@@ -1,8 +1,7 @@
 #include <iostream>
 #include <cmath>
-
-int input();
-int disc(int a, int b, int c);
+#include "input.h"
+#include "disc.h"
 
 int main()
 {
